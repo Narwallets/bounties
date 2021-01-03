@@ -1,7 +1,7 @@
 # Bounties
 There are bounties!
 
-These are specifications for work that helps NEAR and the NEAR ecosystem.  The Issues tab will list each of these and their labels will help you search for what you want. 
+These are specifications for work that helps NEAR and the NEAR ecosystem.  The [Issues tab](https://github.com/Narwallets/bounties/issues) will list each of these and their labels will help you search for what you want. 
 
 ## Overview: Calling Developers, Designers, Product People and Founders!
 
